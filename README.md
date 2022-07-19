@@ -30,3 +30,8 @@ RyS Lab 2:
 RyS Lab 3:
   diseñar un sistema de control de flujo y congestión (entre el destino y el
   generador) de manera que se evite la pérdida de datos por saturación de buffers
+
+Matemática Discreta II:
+  cargar grafos en formato DIMAC con millones de vertices y aristas en un TAD adecuado e
+  implementar de forma eficiente algoritmos tales como el greedy de coloreo o determinar
+  si es o no bipartito.
